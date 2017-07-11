@@ -1,0 +1,6 @@
+framework module RSBarcodes {
+  umbrella header "RSBarcodes-umbrella.h"
+
+  export *
+  module * { export * }
+}

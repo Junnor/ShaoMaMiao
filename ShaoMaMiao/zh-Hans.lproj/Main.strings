@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "在线模式是每次验票都会跟喵特服务器进行请求验证门票的真伪，但需要进行联网"; ObjectID = "0xf-YA-6wV"; */
+"0xf-YA-6wV.text" = "在线模式是每次验票都会跟喵特服务器进行请求验证门票的真伪，但需要进行联网";
+
+/* Class = "UIButton"; normalTitle = "绑定漫展"; ObjectID = "11J-8m-YHw"; */
+"11J-8m-YHw.normalTitle" = "绑定漫展";
+
+/* Class = "UIBarButtonItem"; title = "记录"; ObjectID = "236-a8-7HZ"; */
+"236-a8-7HZ.title" = "记录";
+
+/* Class = "UIButton"; normalTitle = "扫票模式"; ObjectID = "2mS-Lv-el8"; */
+"2mS-Lv-el8.normalTitle" = "扫票模式";
+
+/* Class = "UISearchBar"; placeholder = "请输入手机号码查询已扫记录"; ObjectID = "3Jp-Lt-aa3"; */
+"3Jp-Lt-aa3.placeholder" = "请输入手机号码查询已扫记录";
+
+/* Class = "UILabel"; text = "已扫"; ObjectID = "5ks-jC-MuD"; */
+"5ks-jC-MuD.text" = "已扫";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "7i4-cz-153"; */
+"7i4-cz-153.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "手机号查询"; ObjectID = "98f-in-Ifs"; */
+"98f-in-Ifs.normalTitle" = "手机号查询";
+
+/* Class = "UILabel"; text = "地址信息加载中..."; ObjectID = "9Rc-wJ-a3c"; */
+"9Rc-wJ-a3c.text" = "地址信息加载中...";
+
+/* Class = "UILabel"; text = "模式"; ObjectID = "Fj8-tg-vXY"; */
+"Fj8-tg-vXY.text" = "模式";
+
+/* Class = "UILabel"; text = "记录模式"; ObjectID = "MUJ-sl-Sj8"; */
+"MUJ-sl-Sj8.text" = "记录模式";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "NFv-AI-3eM"; */
+"NFv-AI-3eM.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "教程"; ObjectID = "PZs-fI-iug"; */
+"PZs-fI-iug.title" = "教程";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "Sqw-3v-LMa"; */
+"Sqw-3v-LMa.placeholder" = "请输入密码";
+
+/* Class = "UILabel"; text = "漫展信息加载中..."; ObjectID = "Vf8-Dl-nmE"; */
+"Vf8-Dl-nmE.text" = "漫展信息加载中...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xld-7j-87u"; */
+"Xld-7j-87u.text" = "Label";
+
+/* Class = "UILabel"; text = "现场 00.00"; ObjectID = "YI6-vp-g6z"; */
+"YI6-vp-g6z.text" = "现场 00.00";
+
+/* Class = "UILabel"; text = "离线模式"; ObjectID = "ZA3-Gr-lH9"; */
+"ZA3-Gr-lH9.text" = "离线模式";
+
+/* Class = "UIButton"; normalTitle = "验票数据"; ObjectID = "bFR-IL-aw3"; */
+"bFR-IL-aw3.normalTitle" = "验票数据";
+
+/* Class = "UIButton"; normalTitle = "登 录"; ObjectID = "cIS-u6-vvS"; */
+"cIS-u6-vvS.normalTitle" = "登 录";
+
+/* Class = "UILabel"; text = "在线模式"; ObjectID = "lxe-jc-um3"; */
+"lxe-jc-um3.text" = "在线模式";
+
+/* Class = "UILabel"; text = "00.00"; ObjectID = "q3P-sx-Ri8"; */
+"q3P-sx-Ri8.text" = "00.00";
+
+/* Class = "UILabel"; text = "00-00 00:00 "; ObjectID = "rTO-j9-m8g"; */
+"rTO-j9-m8g.text" = "00-00 00:00 ";
+
+/* Class = "UITextField"; placeholder = "请输入账号"; ObjectID = "vkp-wO-Jbf"; */
+"vkp-wO-Jbf.placeholder" = "请输入账号";
+
+/* Class = "UILabel"; text = "操作记录是把没有通过验证的二维码进行记录，如果发生争议时，可以点击记录进行复制，反馈喵特工作人员进行查证"; ObjectID = "yrg-FR-w5N"; */
+"yrg-FR-w5N.text" = "操作记录是把没有通过验证的二维码进行记录，如果发生争议时，可以点击记录进行复制，反馈喵特工作人员进行查证";

@@ -1,5 +1,4 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f5875d78-d055-c948-92e8-b4a78b9fc47b",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "f5875d78-d055-c948-92e8-b4a78b9fc47b" : {
 
@@ -10,11 +9,11 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1D3F045A-6AA3-4183-96D0-2FFE75C649A6",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "f5875d78-d055-c948-92e8-b4a78b9fc47b" : "ios\/"
+    "f5875d78-d055-c948-92e8-b4a78b9fc47b" : ".."
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "ShaoMaMiao",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "shaomamiao\/ShaoMaMiao\/ShaoMaMiao.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ShaoMaMiao.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.110.3:1088\/svn\/ios",
